@@ -1,1 +1,1 @@
-curl https://git.io/fj3UA | sh
+curl -sL https://git.io/fj3UA | sh
