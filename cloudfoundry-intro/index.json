@@ -4,8 +4,11 @@
     "description": "Learn the basics of deploying applications to CloudFoundry",
     "details": {
         "steps": [{
-            "title": "Step 2",
-            "text": "step2.md"
+            "title": "CloudFoundry CLI",
+            "text": "cli.md"
+        }, {
+            "title": "Build Our Application",
+            "text": "prep.md"
         }],
         "intro": {
             "text": "intro.md",
