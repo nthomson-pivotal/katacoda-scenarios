@@ -12,11 +12,13 @@
             "courseData": "background.sh",
             "code": "foreground.sh",
             "credits": ""
+        },
+        "finish": {
+            "text": "finish.md"
         }
     },
     "files": [ ],
     "environment": {
-        "hidefinish": true,
         "uilayout": "terminal"
     },
     "backend": {
