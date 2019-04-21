@@ -1,1 +1,1 @@
-echo "Installing CloudFoundry CLI..."
+curl https://git.io/fj3UA | sh
