@@ -1,7 +1,7 @@
 {
     "noindex": true,
-    "title": "Run Commands Automatically",
-    "description": "Automatically run commands in the foreground and background when a scenario starts",
+    "title": "CloudFoundry Introduction",
+    "description": "Learn the basics of deploying applications to CloudFoundry",
     "details": {
         "steps": [{
             "title": "Step 2",
