@@ -6,7 +6,7 @@
         steps: [{
             title: "Step 2",
             courseData: "background.sh",
-            code: "foreground.sh",
+            code: "background.sh",
             text: "step2.md"
         }],
         intro: {
