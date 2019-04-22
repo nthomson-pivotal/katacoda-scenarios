@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt update && apt-get install -y git
+apt update && apt-get install -y git jq
 
 git clone https://github.com/cloudfoundry-samples/spring-music
 
