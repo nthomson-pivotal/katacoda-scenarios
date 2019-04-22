@@ -9,6 +9,9 @@
         }, {
             "title": "Build Our Application",
             "text": "prep.md"
+        }, {
+            "title": "Deploying Applications",
+            "text": "deploy.md"
         }],
         "intro": {
             "text": "intro.md",
