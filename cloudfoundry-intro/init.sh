@@ -2,7 +2,7 @@ echo "Preparing environment..."
 
 echo 'Enter passphrase:'
 
-read  passvar
+read passvar
 
 echo "Got: $passvar"
 
