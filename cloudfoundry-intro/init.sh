@@ -1,6 +1,8 @@
 echo "Preparing environment..."
 
-read -sp 'Enter passphrase: ' passvar
+echo 'Enter passphrase:'
+
+read  passvar
 
 echo "Got: $passvar"
 
