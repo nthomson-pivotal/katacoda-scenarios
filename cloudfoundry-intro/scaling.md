@@ -11,3 +11,5 @@ state       since                  cpu  memory
 #0 running  2016-02-23 10:55:08 AM 0.1% 461M of 512M
 #1 running  2016-02-23 01:14:59 PM 0.0% 455.1M of 512M
 ```
+
+You can similarly scale vertically by adjusting memory and disk.
