@@ -2,6 +2,8 @@
     "noindex": true,
     "title": "CloudFoundry Introduction",
     "description": "Learn the basics of deploying applications to CloudFoundry",
+    "difficulty": "easy",
+    "time": "10 minutes",
     "details": {
         "steps": [{
             "title": "Grab An Environment",
