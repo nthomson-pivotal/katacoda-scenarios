@@ -5,3 +5,13 @@ The Spring Music application comes with a manifest file, which specifies various
 To deploy the application, execute `cf push`{{execute}}.
 
 Once the application is deployed, you can obtain additional details about the application using the command `cf app spring-music`{{execute}}.
+
+You can access the application in your browser by grabbing the URL from the `routes` field of the output:
+
+```
+name:              spring-music
+requested state:   started
+routes:            spring-music-<your url>
+```
+
+Verify that your application in accessible.

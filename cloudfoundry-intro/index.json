@@ -4,6 +4,9 @@
     "description": "Learn the basics of deploying applications to CloudFoundry",
     "details": {
         "steps": [{
+            "title": "Grab An Environment",
+            "text": "env.md"
+        }, {
             "title": "CloudFoundry CLI",
             "text": "cli.md"
         }, {
@@ -11,7 +14,8 @@
             "text": "prep.md"
         }, {
             "title": "Deploying Applications",
-            "text": "deploy.md"
+            "text": "deploy.md",
+            "code": "clear.sh"
         }],
         "intro": {
             "text": "intro.md",
