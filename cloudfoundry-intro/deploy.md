@@ -11,7 +11,7 @@ You can access the application in your browser by grabbing the URL from the `rou
 ```
 name:              spring-music
 requested state:   started
-routes:            spring-music-<your url>
+routes:            spring-music-<suffix>
 ```
 
-Verify that your application in accessible.
+Verify that your application in accessible using your unique application URL from the command output. 

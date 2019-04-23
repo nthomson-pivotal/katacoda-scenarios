@@ -18,6 +18,14 @@
             "title": "Deploying Applications",
             "text": "deploy.md",
             "code": "clear.sh"
+        }, {
+            "title": "View Logs",
+            "text": "logs.md",
+            "code": "clear.sh"
+        }, {
+            "title": "Scaling Applications",
+            "text": "scaling.md",
+            "code": "clear.sh"
         }],
         "intro": {
             "text": "intro.md",
