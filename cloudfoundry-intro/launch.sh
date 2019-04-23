@@ -13,7 +13,6 @@ response=$(curl -sL -X POST -H "X-API-Token: $passphrase" -d '' https://space-cr
 
 for s in $(echo $response | jq -r "to_entries|map(\"\(.key)=\(.value|tostring)\")|.[]" ); do
     export "$s"
-    echo "$s"
 done
 
 cf login -a api.sys.nialltest150.gcp.paasify.org -u "$username" -p "$password" -o "$orgName" -s "$spaceName"
