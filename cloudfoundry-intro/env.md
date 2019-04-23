@@ -1,4 +1,4 @@
-First, lets grab a CloudFoundry space for you to work in. We will provide you a temporary space to deploy applications to that will be valid for 30 minutes.
+First, lets setup a CloudFoundry space for you to work in. We will provide you a temporary space to deploy applications to that will be valid for 30 minutes.
 
 Run the following command: `launch`{{execute}}
 
